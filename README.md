@@ -1,1 +1,1 @@
-Rstaurant Name Generator using OpneAI
+Rstaurant Name Generator using OprnAI
